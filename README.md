@@ -45,3 +45,7 @@ Indicar el formato de los directorios y lo que va a contener cada uno.
 
 * Mostrar más información de que ficheros se han bajado y cuales sincronizado. Desechar lo que no sirva para analizar problemas.
 * Borrado: Al borrar una canción de playlist de Youtube se elimine del directorio local y de Play Music.
+
+Apaños que tengo que ir haciendo.
+Por la aparición del "ERROR: ffprobe or avprobe not found. Please install one." installo: 
+	sudo apt-get install -y libav-tools
